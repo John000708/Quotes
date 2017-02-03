@@ -1,0 +1,2 @@
+A repository which contains (will contain) a lot of quotes. Feel free to add any famous or inspirational quotes you know, that do not already exist. The quotes will be used in some projects I am currently working on,
+but feel free to use them them yourself. 
